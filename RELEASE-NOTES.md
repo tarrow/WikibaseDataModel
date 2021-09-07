@@ -1,5 +1,7 @@
 # Wikibase DataModel release notes
 
+## Food change 2!
+
 ## Foo change!
 
 ## Version 9.6.1 (2021-04-01)
